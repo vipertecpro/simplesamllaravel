@@ -1,0 +1,12 @@
+{
+  "/js/app.js": "/js/app.js",
+  "/css/app.css": "/css/app.css",
+  "/css/all.css": "/css/all.css",
+  "/mix.js": "/mix.js",
+  "/admin/css/admincss.css": "/admin/css/admincss.css",
+  "/adminassets/css/admincss.css": "/adminassets/css/admincss.css",
+  "/adminassets/js/main.js": "/adminassets/js/main.js",
+  "/adminassets/js/init.js": "/adminassets/js/init.js",
+  "/adminassets/js/jquery.min.js": "/adminassets/js/jquery.min.js",
+  "/js/jquery.min.js": "/js/jquery.min.js"
+}

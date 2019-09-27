@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dca2b6a-17bd-424e-bfd4-d2f5b4213dd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FileZilla.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moma_docs/sent_money.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Event Details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Event Schedule.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Event Schedule_Applied.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Event Schedule_Viewers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Event.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/ForgotPassword.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Help.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Message.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/OTP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/PNP Home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Payment Summary2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Payment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Payment_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Post Event-Budget.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Post Event-Payment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Post Event.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Posting Options Successfully.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Posting Options.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Promoter Profile Gallery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Promoter Profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Schedule.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Schedule_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Side Menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Signup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Signup_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Signup_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Signup_4(Popup).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Slider_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Slider_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Slider_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Client Screen/Splash Screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Apply Job.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Break time.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Edit  Profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/End Break.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/End Shift Details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/End Shift.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/End Shift_Activation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/ForgotPassword.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Help.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Message.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/My Job.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Notification.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/OTP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/PNP Home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Payment Summary2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Payment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Portfolio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Post Event.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Qr Code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Schedule.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Schedule_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Search Job.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Search Promoter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Side Menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup_4(Popup).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup_Option.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup_Option_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Signup_Payment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Slider_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Slider_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Slider_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Splash Screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Start shift.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/MJ Promoter Screen/Upload Portfolio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/PNP Mobile for developer (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/PNP mobile updated view.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/PNP-Client-Wireframe_v3 feedback (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/PNP-Client-Wireframe_v3_old.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/PNP-MobileApp-Wireframe_v3_old.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/PNP-Promoter-Wireframe_v3 feedback (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/Slide Design Demo 3 feedback.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP All Documents/pnp_credentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Details/back_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Details/blue_small_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Details/calendar_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Details/job_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Details/navigation_penal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Schedule/blue_big_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Schedule/green_tick_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Schedule_Applied/listing_box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Schedule_Applied/popup_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Schedule_Applied/profile_pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event Schedule_Viewers/popup_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event/back_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event/listing_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Event/next_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/ForgotPassword/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/ForgotPassword/mail_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Help/down_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Help/info_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/back_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/facebook_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/googleplus_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/insagram_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/mj_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/password_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Login/username_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Message/profile_pic_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Message/profile_pic_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Message/profile_pic_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/OTP/close_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/OTP/otp_popup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/OTP/submit_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/big_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/card_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/mastercard_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/sel_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/slider_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/slider_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/small_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pnp_documents/PNP Icons/Payment Summary2/unsel_round.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/simplesamlphp/saml2" />
+      <path value="$PROJECT_DIR$/vendor/robrichards/xmlseclibs" />
+      <path value="$PROJECT_DIR$/vendor/ixudra/curl" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1RMmCsb7qf72fxLbXXfClhcbqWU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/samllogin/lib/SimpleSAML" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/samllogin/lib/SimpleSAML" />
+      <recent name="$PROJECT_DIR$/public/samllogin" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dca2b6a-17bd-424e-bfd4-d2f5b4213dd1" name="Default Changelist" comment="" />
+      <created>1560505201153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560505201153</updated>
+      <workItem from="1560505202326" duration="2290000" />
+      <workItem from="1560527199824" duration="2787000" />
+      <workItem from="1560573095061" duration="965000" />
+      <workItem from="1560592166984" duration="591000" />
+      <workItem from="1560834613676" duration="1536000" />
+      <workItem from="1561083715868" duration="6582000" />
+      <workItem from="1561142226410" duration="21345000" />
+      <workItem from="1569485216497" duration="6122000" />
+      <workItem from="1569565149737" duration="12903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
